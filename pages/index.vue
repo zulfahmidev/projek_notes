@@ -7,7 +7,9 @@
           test
         </div>
         <div class="pr-4">
-          
+          <div class="rounded-full active:bg-slate-200 text-slate-800 cursor-pointer w-7 h-7 flex items-center justify-center">
+            <Icon name="material-symbols:delete-forever-outline-sharp" />
+          </div>
         </div>
       </div>
     </div>

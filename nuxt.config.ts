@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     name: "Zulfahmi"
   },
   modules: [
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    'nuxt-icon'
   ]
 })
